@@ -1,0 +1,3 @@
+begin
+thing = 5;
+end

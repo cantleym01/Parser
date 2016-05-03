@@ -1,0 +1,6 @@
+C:\Users\Macbad 2012\Documents\GitHub\CommandLineParser\CommandLineParser\bin\Debug\CommandLineParser.exe.config
+C:\Users\Macbad 2012\Documents\GitHub\CommandLineParser\CommandLineParser\bin\Debug\CommandLineParser.exe
+C:\Users\Macbad 2012\Documents\GitHub\CommandLineParser\CommandLineParser\bin\Debug\CommandLineParser.pdb
+C:\Users\Macbad 2012\Documents\GitHub\CommandLineParser\CommandLineParser\obj\Debug\CommandLineParser.csprojResolveAssemblyReference.cache
+C:\Users\Macbad 2012\Documents\GitHub\CommandLineParser\CommandLineParser\obj\Debug\CommandLineParser.exe
+C:\Users\Macbad 2012\Documents\GitHub\CommandLineParser\CommandLineParser\obj\Debug\CommandLineParser.pdb

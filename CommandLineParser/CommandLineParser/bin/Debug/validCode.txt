@@ -1,0 +1,10 @@
+begin
+write (x + 4 - (9 - 4), x, 3 + 4);
+write ((x-3) + (3) - (x + 3 - 10), (3 - 4));
+write (z);
+read (twelve);
+read (x, time, begin_string);
+x := 43 - ((12 + (((3) - z) + 4)));
+y := (((4 - x) - 5) + 3) + 6;
+z := 22;
+end
